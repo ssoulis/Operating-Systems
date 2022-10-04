@@ -14,7 +14,7 @@ Learn how Operating Systems work and how to effectively programm them.
 
 VERSION or DATE: SPRING 2020
 
-The project report and the comments in my code were originally written by me in Greek and were translated by me so there may be some mistakes in the traslated version (grammar) :)
+The project report and the comments in code are written in greek by me and they are not yet translated.
 
 USER INSTRUCTIONS:
 
